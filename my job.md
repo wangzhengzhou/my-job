@@ -41,7 +41,7 @@
 #### 主要技术栈
 - jquery/css3/Vue.js/ES6/webpack
 #### [预览地址](https://wangzhengzhou.github.io/cnode-forum/#/)/[查看源码](https://github.com/wangzhengzhou/cnode-forum)
-### [移动端豆瓣电影](https://wangzhengzhou.github.io/Mobile-Douban-Movie/index.html)
+### 移动端豆瓣电影
 #### 功能介绍：
 - 移动端和pc端自适应豆瓣电影播放器；默认进去后是Top250排行榜，展示有电影的海报，片名、评分、主演、收藏数量、上映年份、类型等信息；点击当前电影信息可以进入其详情页进一步操作；向下滑动屏幕展示下面的信息；点击北美，展示北美地区排行榜的相关信息；点击搜索可以根据关键字搜索相关信息
 #### 技术细节
@@ -50,7 +50,10 @@
 - 点击分类导航条时，将当前点击页面展现出来，其余页面隐藏；
 #### 主要技术栈
 - jquery/css3/html
-#### [预览地址](https://wangzhengzhou.github.io/Mobile-Douban-Movie/)/[查看源码](https://github.com/wangzhengzhou/Mobile-Douban-Movie)
+#### [预览地址](https://wangzhengzhou.github.io/Mobile-Douban-Movie/index.html)/[查看源码](https://github.com/wangzhengzhou/Mobile-Douban-Movie)
+## 我的技能
+- 掌握CSS3、原生js、HTML5、jquery,熟悉Vue.js、ES6、webpack，有Node.js、gulp使用经验,对前端工程化、模块化有一定的认识
+
 ## 工作经历
 - 2014.6-2016.3:四川菌源菌业
 - 2016.3-2018.8：深圳市德邦物流有限公司
